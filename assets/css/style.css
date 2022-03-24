@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* removed header as class, added as element instead */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,14 +17,20 @@ header {
     color: #ffffff;
 }
 
+/* removed nested class */
+
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* removed nested class and element */
+
 .seo {
     color: #d9dcd6;
 }
+
+/* changed div to nav element and removed nested class*/
 
 nav {
     padding-top: 15px;
@@ -32,9 +40,13 @@ nav {
     font-size: 20px;
 }
 
+/* removed nested class and elements*/
+
 ul {
     list-style-type: none;
 }
+
+/* removed nested class and elements*/
 
 li {
     display: inline-block;
@@ -75,6 +87,8 @@ p {
     margin-left: 20px;
 }
 
+/* created benefits id */
+
 #benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,21 +100,29 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated three classes down to one */
+
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* consolidated down to just one h3 rule */
 
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* consolidated to new, singular class */
+
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* consolidated to one new class for the three topics */
 
 .three {
     margin-bottom: 20px;
@@ -111,9 +133,13 @@ h3 {
     color: #ffffff;
 }
 
+/* consolidated down to one img rule for the three topics */
+
 .three img {
     max-height: 200px;
 }
+
+/* consolidated down to one h2 rule for the three topics */
 
 .three h2 {
     margin-bottom: 20px;
