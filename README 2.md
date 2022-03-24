@@ -1,6 +1,6 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-## Your Task
+## Your Task Here
 
 Be sure to review the [Homework Guide](./Homework-Guide/README.md) before you start working on this assignment! This week is an odd-numbered week, so your homework is an on-the-job ticket&mdash;meaning that you'll begin with starter code that you need to modify. 
 
