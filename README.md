@@ -1,42 +1,37 @@
-# Homework Guide
+# Lindy Briggs hw1
 
-Each week, your instructor will add instructions for that week’s homework assignment to the class repo and announce that it’s ready. Your instructors and TAs will also provide a demonstration of the homework in the classroom.
+## Description
 
-## How to Work on Homework
+For this homework assignment, I accomplished the following:
 
-Homework is designed to prepare you for two scenarios that you will encounter as a developer:
+* Created a repo on github and added a README file, css stylesheet, and html file
 
-* On-the-job tickets or feature requests
+* Sucessfully pushed commits to this github repo with detailed messages
 
-* Job-seeking coding assessments or take-home assignments
+* Got rid of 'div-soup' in html by replacing with either:
 
-On-the-job ticket homework will provide you with starter code in a folder called `Develop`. You’ll modify or add to this code to complete the homework. Odd-numbered units follow this format.
+    *Header
 
-Job-seeking coding assessments do not provide starter code. You’ll build these from scratch. Even-numbered units follow this format.
+    *Footer
 
-All of the homework assignments follow agile project management conventions, providing a user story, acceptance criteria, a mock-up demonstrating the application functionality, and review guidelines. 
+    *Main
 
-### User Story
+    *Section
 
-Part of being a developer is putting yourself in the shoes of your audience and imagining their experience with the application you’re creating. 
+    *Aside
 
-A user story, or persona, is a description of an application using natural, non-technical language. Written from the perspective of the application’s end user, they help developers organize their work by allowing them to understand an application’s context and who will be using it.
+* Consolidated CSS and added comments throughout to reflect changes made
 
-### Acceptance Criteria
+* Ensured proper linking within html code
 
-Acceptance criteria are the requirements that must be met to complete a user story. They define the boundaries of the user story and are used to confirm when a story is completed.
+* Added alt text to maximize user accessibility for images
 
-These criteria can be thought of as instructions for how you should complete a homework assignment. As you plan how to build the application, use them to structure your pages and pseudocode your logic. As you’re working, look back at the list of acceptance criteria to make sure you’ve met all of them. An application is complete only when it meets all of these criteria.
+* Updated title to be more descriptive
 
-### Review
+## Screenshot
 
-In the real world, when a developer finishes working on an issue, another developer reviews the code, providing feedback on errors and making sure that all of the acceptance criteria have been met. For the homework assignments, your TAs will serve as your reviewers.
+Here is where I will add a screenshot of my completed url page.
 
-To submit your application for review, you are required to provide the following:
+## Link
 
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
----
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Here is a link to my deployed application: https://lindybriggs.github.io/hw1/
